@@ -1,0 +1,43 @@
+
+.formstyle
+{
+width: 200px;
+height: 300px;
+margin: 20px auto;
+border: 3px solid skyblue;
+border-radius: 15px;
+padding: 20px;
+text-align: center;
+background-color:rgb(98, 185, 200);
+}
+
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: skyblue;
+	color: rgba(235, 46, 235, 0.514);
+	}
+input:hover
+{
+background-color:blue;
+}
+
+.btn{
+width: 40px;
+height: 40px;
+font-size: 20px;
+margin: 2px;
+background-color:black;
+color: white;  
+border-radius:10px;
+
+}
+
+.textview{
+width: 170px;
+margin: 5px;
+font-size: 25px;
+padding: 5px;
+background-color:palevioletred;
+}	
+
